@@ -20,4 +20,4 @@ yarn run build
 yarn run lint
 ```
 preview:
-abusive-winter.surge.sh
+https://abusive-winter.surge.sh/
